@@ -1,4 +1,3 @@
-ParallelLife Support
 Thanks for using ParallelLife! If you have any questions, feedback, or run into an issue, feel free to reach out.
 
 Contact: 842800478wff@gmail.com
